@@ -69,7 +69,7 @@ organizador.exe C:\Users\SeuNome\Downloads
 Você pode expandir facilmente adicionando mais tipos no código.
 
 🛡️ Licença
-Este projeto está licenciado sob a MIT License — você é livre para usar, modificar e distribuir!
+Este projeto está licenciado sob a GNU General Public License — você é livre para usar, modificar e distribuir!
 
 🧠 Futuras melhorias
 - Evitar sobrescrever arquivos com nomes repetidos
